@@ -1,5 +1,5 @@
 /*
-Copyright 2021 Yandashevskaya Alina Andreevna
+Copyright 2021 Yandashevskaya Elina Andreevna
 
 ====================================================================
 
